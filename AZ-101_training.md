@@ -6,6 +6,7 @@
 
 ## Azure App Service Platform
 
-### Wep App
-어떻게 관리할 것인가?
+### Azure Wep App Training
+
+> **참고자료** : [https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02__instructions.md](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02__instructions.md)
 
