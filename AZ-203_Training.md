@@ -4,9 +4,9 @@
 
 한국무역협회와 MS Korea 주최
 
-주제 : **AZ-203 Exam Objectivees**
+주제 : **AZ-203(Developing Solutions for Microsoft Azure) Exam Objectivees**
 
-AZ-203 : Developing Solutions for Microsoft Azure
+> 강의자료 : [https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure)
 
 ## 내용정리
 
@@ -23,9 +23,6 @@ Azure Storage
 3. Queue Storage
 4. File Storage
 
-#### AWS
-> AWS 비용 산정 및 그리기 : [Cloudcraft - Draw AWS](https://cloudcraft.io)
-
 ## 오전수업
 1. Short brief of AZ-203 
 1. [PowerShell Install](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6)
@@ -35,7 +32,9 @@ Azure Storage
 ## 오후수업
 
 
+- - -
 ##### 더 알아보기
 1. Cloud 사용하는 이유? Cloud 를 효율적으로 사용하는 방법?
 2. RDB vs DBA ?
+3. AWS 비용 산정 및 그리기 : [Cloudcraft - Draw AWS](https://cloudcraft.io)
 
