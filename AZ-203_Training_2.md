@@ -47,7 +47,6 @@
 - GitHub 잘 활용하는 방법 생각해보기
 - [AZ-203_06_lab.md 실습](https://github.com/Sanghyun2/AZ-203-DevelopingSolutionsforMicrosoftAzure/blob/master/Instructions/Labs/AZ-203_06_lab.md)
 - 실패한 이유 : `Azure Storage Explorer 계정연동 안되서 실패`
-> 실습사이트 : [kr-devops/devopskr → wiki](https://dev.azure.com/kr-devops/devopskr/)
 
 - - -
 #### 더 알아보기
